@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>纽约华人家长 · 升学指南</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header>
+    <h1>纽约华人家长 · 升学指南</h1>
+    <p>帮助孩子升学，助力家庭规划 —— 为纽约华人家长打造的大学申请信息公益平台</p>
+    <nav>
+      <ul>
+        <li><a href="index.html">首页</a></li>
+        <li><a href="apply.html">大学申请流程</a></li>
+        <li><a href="choose.html">选校与选专业</a></li>
+        <li><a href="scholarship.html">奖学金指南</a></li>
+        <li><a href="loan.html">学费与贷款</a></li>
+        <li><a href="faq.html">常见问题</a></li>
+        <li><a href="contact.html">联系我们</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>📘 我们能帮您解决什么问题？</h2>
+      <ul>
+        <li>如何规划孩子的大学申请时间表？</li>
+        <li>选大学、选专业的关键考虑因素？</li>
+        <li>申请奖学金和学贷的技巧与注意事项？</li>
+        <li>美国高校申请系统和流程是怎样的？</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>📂 快速访问</h2>
+      <p>点击以下栏目快速查看对应内容：</p>
+      <ul>
+        <li><a href="apply.html">▶ 大学申请流程全攻略</a></li>
+        <li><a href="choose.html">▶ 如何选校与选专业</a></li>
+        <li><a href="scholarship.html">▶ 常见奖学金及申请流程</a></li>
+        <li><a href="loan.html">▶ 美国学费与学贷指南</a></li>
+        <li><a href="faq.html">▶ 家长常见问题答疑</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>💬 加入我们</h2>
+      <p>欢迎添加微信或邮箱订阅，加入家长交流群，共同成长：</p>
+      <p>微信：college_helper</p>
+      <p>邮箱：nycparentsguide@example.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 纽约华人家长 · 升学指南 | 非商业公益项目 | Designed with 💙</p>
+  </footer>
+</body>
+</html>
